@@ -3,7 +3,7 @@ Contributors: johnciacia
 Tags: html5, voice, speech, search
 Requires at least: 2.8
 Tested up to: 3.3.1
-Stable tag: 0.2
+Stable tag: 0.3
 
 This plugin enables speech search
 
