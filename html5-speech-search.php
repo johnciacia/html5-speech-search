@@ -3,7 +3,7 @@
 Plugin Name: HTML5 Speech Search
 Plugin URI: http://www.johnciacia.com/projects/google-contacts-importer/
 Description: This plugin allows your users to use a voice search
-Version: 0.1
+Version: 0.2
 Author: John Ciacia
 Author URI: http://www.johnciacia.com
 
