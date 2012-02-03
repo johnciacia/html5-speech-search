@@ -8,4 +8,8 @@ Stable tag: 0.2
 This plugin enables speech search
 
 == Description ==
-This plugin enables speech search
+This plugin enables speech search to all default search boxes. This currently only works on webkit browsers.
+
+== Screenshots ==
+1. A microphone is added to the search box.
+2. When you click the microphone, it prompts you to speak.
